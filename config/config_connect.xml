@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<!-- 服务器列表 -->
+	<Server ip="60.29.232.29" port="8084" name="三国II内网测试服"/>
+	<!--<Server ip="192.168.1.108" port="8084" name="三国II内网测试服"/>-->
+	<!-- 显示LOGO 1 显示 0 不显示-->
+	<Logo>0</Logo>
+	
+	<!-- 动态加载的logopath -->
+	<LogoPath>config/RenRenLogo.swf</LogoPath>
+	
+	<!-- 动态加载的logo播放次数 -->
+	<LogoTime>1</LogoTime>
+	
+	<!-- 充值，0不开启，1开启 -->
+	<Exchange>1</Exchange>
+	
+	<!-- 微博功能开关，0不开启，1开启 -->
+	<MicroBlogSwitch>1</MicroBlogSwitch>
+	
+	<!-- 战役组队(包括战役功能)功能开关，0不开启，1开启 -->
+	<CampaignTeamSwitch>0</CampaignTeamSwitch>
+	
+	<!-- 旗子功能开关，0不开启，1开启 -->
+	<FlagSwitch>1</FlagSwitch>
+	
+	<!-- 开服活动功能开关，0不开启，1开启 -->
+	<NewServerActiveSwitch>1</NewServerActiveSwitch>
+	
+	<!-- 数据发送时间间隔（秒） -->
+	<SendInterval>0.2</SendInterval>
+
+	<!-- 尝试连接的参数，times:尝试次数，interval:重连时间间隔（秒） -->
+	<Reconnect times="1" interval="1"/>
+	
+	<!-- 战报HTTP服务器 -->
+	<HttpServer>http://192.168.0.190/</HttpServer>
+	<!-- 版本号 -->
+	<version>1.0.2.0</version>
+	<!-- 资源服务器-->
+	<ResourceServer></ResourceServer>
+	<!-- 资源加载方式 0 正常 1 加密 -->
+	<ResourceLoadType>0</ResourceLoadType>
+	<!-- 除第一次和第二次加载的资源的根目录 -->
+	<LoadRootPath>res</LoadRootPath>
+	<SoundRootPath>sounds</SoundRootPath>
+	<!-- 是否在Debug状态，0不是，1是 -->
+	<Debug>1</Debug>
+	<!-- ，0不是，1是 -->
+	<ShowLogin>1</ShowLogin>
+	<!-- ，0不是，1是 -->
+	<ShowCreateUser>1</ShowCreateUser>
+	<!--  游戏版本 WEB,IPAD -->
+	<GameType>IPAD</GameType>
+	<!-- 客户端语言版本 -->
+	<Language>zh_CN</Language>
+	<!--关注功能 0:关闭 1：开启-->
+	<Guanzhu>0</Guanzhu>
+	<!-- 0:简单 1：正常-->
+	<CreatePlayer>0</CreatePlayer>
+	<!-- 0 关闭 1 开启 引导 -->
+	<Guide>1</Guide>
+	<!-- 引导蒙版的透明度 0 - 1  -->
+	<GuideAlpha>0.5</GuideAlpha>
+	<MissionChallenge>1</MissionChallenge>
+	<!-- 各种地址 -->
+	<Login>http://login.html</Login>
+	<MaxBattleCacheCount>20</MaxBattleCacheCount>
+	
+	<LoginSoundUrl>sounds/music/login.mp3</LoginSoundUrl>
+	<GameWorldSoundUrl>sounds/music/game_world.mp3</GameWorldSoundUrl>
+	<GameWorldSoundUrl>sounds/effect/building_level_up.mp3</GameWorldSoundUrl>
+	<GameWorldSoundUrl>sounds/effect/button_click.mp3</GameWorldSoundUrl>
+	<GameWorldSoundUrl>sounds/effect/drag_equipment.mp3</GameWorldSoundUrl>
+	<GameWorldSoundUrl>sounds/effect/drag_general.mp3</GameWorldSoundUrl>
+	<GameWorldSoundUrl>sounds/effect/strengthen_failed.mp3</GameWorldSoundUrl>
+	<GameWorldSoundUrl>sounds/effect/strengthen_success.mp3</GameWorldSoundUrl>
+	<GameWorldSoundUrl>sounds/effect/tip.mp3</GameWorldSoundUrl>
+	<BattleSoundUrl>sounds/music/battle_1.mp3</BattleSoundUrl>
+	<BattleSoundUrl>sounds/music/battle_2.mp3</BattleSoundUrl>
+	<SoundSwitch>1</SoundSwitch>
+</Config>

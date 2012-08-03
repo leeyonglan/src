@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<storys>
+<dialogue id="1" type="3" bgimage="bg1" next="2" speaker=""><content name="" image="" >GUIDE_STORYS_1</content></dialogue>
+<dialogue id="2" type="1" bgimage="bg1" next="3" speaker="1"><content name="" image="" >GUIDE_STORYS_2</content></dialogue>
+<dialogue id="3" type="1" bgimage="bg1" next="5" speaker="2"><content name="" image="" >GUIDE_STORYS_3</content></dialogue>
+<dialogue id="5" type="1" bgimage="bg1" next="6" speaker="1"><content name="" image="" >GUIDE_STORYS_4</content></dialogue>
+<dialogue id="6" type="1" bgimage="bg1" next="7" speaker="2"><content name="" image="" >GUIDE_STORYS_5</content></dialogue>
+<dialogue id="7" type="1" bgimage="bg2" tag="weicheng" next="8" speaker="2"><content >GUIDE_STORYS_6</content></dialogue>
+<dialogue id="8" type="1" bgimage="bg2" next="-1" speaker="1"><content name="" image="" >GUIDE_STORYS_7</content></dialogue>
+</storys>

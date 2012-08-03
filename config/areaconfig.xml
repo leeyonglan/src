@@ -1,0 +1,75 @@
+﻿<?xml version = "1.0" encoding="utf8"?>
+<areas>
+	<area tag = "10003" path = "area/map/20001.jpg">
+		<city num = "1" x = "291" y = "113"/>
+		<city num = "2" x = "272" y = "222"/>
+		<city num = "3" x = "242" y = "330"/>
+		<city num = "4" x = "370" y = "152"/>
+		<city num = "5" x = "402" y = "219"/>
+		<city num = "6" x = "342" y = "299"/>
+		<city num = "7" x = "477" y = "175"/>
+		<city num = "8" x = "513" y = "265"/>
+		<city num = "9" x = "443" y = "331"/>
+		<city num = "10" x = "376" y = "381"/>
+		<city num = "11" x = "421" y = "460"/>
+		<city num = "12" x = "626" y = "184"/>
+		<city num = "13" x = "599" y = "244"/>
+		<city num = "14" x = "558" y = "333"/>
+		<city num = "15" x = "492" y = "397"/>
+		<city num = "16" x = "559" y = "451"/>
+	</area>
+	<area tag = "10002" path = "area/map/20001.jpg">
+		<city num = "1" x = "291" y = "113"/>
+		<city num = "2" x = "272" y = "222"/>
+		<city num = "3" x = "242" y = "330"/>
+		<city num = "4" x = "370" y = "152"/>
+		<city num = "5" x = "402" y = "219"/>
+		<city num = "6" x = "342" y = "299"/>
+		<city num = "7" x = "477" y = "175"/>
+		<city num = "8" x = "513" y = "265"/>
+		<city num = "9" x = "443" y = "331"/>
+		<city num = "10" x = "376" y = "381"/>
+		<city num = "11" x = "421" y = "460"/>
+		<city num = "12" x = "626" y = "184"/>
+		<city num = "13" x = "599" y = "244"/>
+		<city num = "14" x = "558" y = "333"/>
+		<city num = "15" x = "492" y = "397"/>
+		<city num = "16" x = "559" y = "451"/>
+	</area>
+	<area tag = "10001" path = "area/map/20001.jpg">
+		<city num = "1" x = "291" y = "113"/>
+		<city num = "2" x = "272" y = "222"/>
+		<city num = "3" x = "242" y = "330"/>
+		<city num = "4" x = "370" y = "152"/>
+		<city num = "5" x = "402" y = "219"/>
+		<city num = "6" x = "342" y = "299"/>
+		<city num = "7" x = "477" y = "175"/>
+		<city num = "8" x = "513" y = "265"/>
+		<city num = "9" x = "443" y = "331"/>
+		<city num = "10" x = "376" y = "381"/>
+		<city num = "11" x = "421" y = "460"/>
+		<city num = "12" x = "626" y = "184"/>
+		<city num = "13" x = "599" y = "244"/>
+		<city num = "14" x = "558" y = "333"/>
+		<city num = "15" x = "492" y = "397"/>
+		<city num = "16" x = "559" y = "451"/>
+	</area>
+	<area tag = "10004" path = "area/map/20001.jpg">
+		<city num = "1" x = "291" y = "113"/>
+		<city num = "2" x = "272" y = "222"/>
+		<city num = "3" x = "242" y = "330"/>
+		<city num = "4" x = "370" y = "152"/>
+		<city num = "5" x = "402" y = "219"/>
+		<city num = "6" x = "342" y = "299"/>
+		<city num = "7" x = "477" y = "175"/>
+		<city num = "8" x = "513" y = "265"/>
+		<city num = "9" x = "443" y = "331"/>
+		<city num = "10" x = "376" y = "381"/>
+		<city num = "11" x = "421" y = "460"/>
+		<city num = "12" x = "626" y = "184"/>
+		<city num = "13" x = "599" y = "244"/>
+		<city num = "14" x = "558" y = "333"/>
+		<city num = "15" x = "492" y = "397"/>
+		<city num = "16" x = "559" y = "451"/>
+	</area>
+</areas>

@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guides>
+  <guide stepid="1001001" next="1001002">
+	<scene>1</scene>
+	<dialog>step_1_1001001_2</dialog>
+	<mask></mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001002" next="1001003">
+	<scene>1</scene>
+	<dialog>step_1_1001002_2</dialog>
+	<mask></mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001003" next="1001004">
+	<scene>1</scene>
+	<dialog>step_1_1001003_2</dialog>
+	<mask>301,218,64,49</mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>9</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001004" next="1001005">
+	<scene>1</scene>
+	<dialog>step_1_1001004_2</dialog>
+	<mask>537,378,68,31</mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>2</condition>
+	<condition_value>1,7</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001005" next="-1">
+	<scene>7</scene>
+	<dialog>step_1_1001005_2</dialog>
+	<mask>213,388,114,40</mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>2</condition>
+	<condition_value>2,7</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001006" next="1001007">
+	<scene>1</scene>
+	<dialog>step_1_1001006_2</dialog>
+	<mask></mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001007" next="1001008">
+	<scene>1</scene>
+	<dialog>step_1_1001007_2</dialog>
+	<mask></mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001008" next="1001011">
+	<scene>1</scene>
+	<dialog>step_1_1001008_2</dialog>
+	<mask>93,84,57,23</mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001009" next="">
+	<scene>1</scene>
+	<dialog>step_1_1001009_2</dialog>
+	<mask>190,84,82,23</mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001010" next="">
+	<scene>1</scene>
+	<dialog>step_1_1001010_2</dialog>
+	<mask>244,84,30,23</mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001011" next="1001012">
+	<scene>1</scene>
+	<dialog>step_1_1001011_2</dialog>
+	<mask>710,7,60,24</mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001012" next="1001013">
+	<scene>1</scene>
+	<dialog>step_1_1001012_2</dialog>
+	<mask></mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001013" next="1001014">
+	<scene>1</scene>
+	<dialog>step_1_1001013_2</dialog>
+	<mask></mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001014" next="1001015">
+	<scene>1</scene>
+	<dialog>step_1_1001014_2</dialog>
+	<mask></mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001015" next="1001016">
+	<scene>1</scene>
+	<dialog>step_1_1001015_2</dialog>
+	<mask>370,171,64,49</mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>9</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001016" next="1001017">
+	<scene>1</scene>
+	<dialog>step_1_1001016_2</dialog>
+	<mask>537,378,68,31</mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>2</condition>
+	<condition_value>1,7</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001017" next="-1">
+	<scene>7</scene>
+	<dialog>step_1_1001017_2</dialog>
+	<mask>213,388,114,40</mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>2</condition>
+	<condition_value>2,7</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1052001" next="1001019">
+	<scene>8</scene>
+	<dialog>step_1_1052001_2</dialog>
+	<mask></mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001019" next="1001020">
+	<scene></scene>
+	<dialog>step_1_1001019_2</dialog>
+	<mask></mask>
+	<unit>1</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001020" next="1001021">
+	<scene></scene>
+	<dialog>step_1_1001020_2</dialog>
+	<mask></mask>
+	<unit>2</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1001021" next="-1">
+	<scene></scene>
+	<dialog>step_1_1001021_2</dialog>
+	<mask>313,67,513,366</mask>
+	<unit>2</unit>
+	<radar></radar>
+	<condition>15</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1034001" next="-1">
+	<scene></scene>
+	<dialog>step_1_1034001_2</dialog>
+	<mask></mask>
+	<unit>2</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="1034001" flag="0">zhucheng.swf</movieClip>
+	</guide>
+  <guide stepid="1041001" next="1041002">
+	<scene></scene>
+	<dialog>step_1_1041001_2</dialog>
+	<mask>527,561,30</mask>
+	<unit>2</unit>
+	<radar></radar>
+	<condition>2</condition>
+	<condition_value>1,2</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1041002" next="1041003">
+	<scene></scene>
+	<dialog>step_1_1041002_2</dialog>
+	<mask></mask>
+	<unit>3</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1041003" next="1041004">
+	<scene>2</scene>
+	<dialog>step_1_1041003_2</dialog>
+	<mask></mask>
+	<unit>3</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1041004" next="1041005">
+	<scene>2</scene>
+	<dialog>step_1_1041004_2</dialog>
+	<mask></mask>
+	<unit>3</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1041005" next="1041006">
+	<scene>2</scene>
+	<dialog>step_1_1041005_2</dialog>
+	<mask></mask>
+	<unit>3</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1041006" next="1041007">
+	<scene>2</scene>
+	<dialog>step_1_1041006_2</dialog>
+	<mask>269,60,19</mask>
+	<unit>3</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>43</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1041007" next="1041008">
+	<scene>2</scene>
+	<dialog>step_1_1041007_2</dialog>
+	<mask>306,230,63,23</mask>
+	<unit>3</unit>
+	<radar></radar>
+	<condition>16</condition>
+	<condition_value>101</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1041008" next="1041009">
+	<scene>2</scene>
+	<dialog>step_1_1041008_2</dialog>
+	<mask></mask>
+	<unit>3</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1041009" next="1041010">
+	<scene>2</scene>
+	<dialog>step_1_1041009_2</dialog>
+	<mask></mask>
+	<unit>3</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1041010" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1041010_2</dialog>
+	<mask>785,117,25,25</mask>
+	<unit>3</unit>
+	<radar></radar>
+	<condition>5</condition>
+	<condition_value>43</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1051001" next="1051002">
+	<scene>2</scene>
+	<dialog>step_1_1051001_2</dialog>
+	<mask></mask>
+	<unit>4</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1051002" next="1051003">
+	<scene>2</scene>
+	<dialog>step_1_1051002_2</dialog>
+	<mask></mask>
+	<unit>4</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1051003" next="1051004">
+	<scene>2</scene>
+	<dialog>step_1_1051003_2</dialog>
+	<mask>740,131,80</mask>
+	<unit>4</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>16</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1051004" next="1051005">
+	<scene>2</scene>
+	<dialog>step_1_1051004_2</dialog>
+	<mask>345,334,106,29</mask>
+	<unit>4</unit>
+	<radar></radar>
+	<condition>9</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1051005" next="1051006">
+	<scene>2</scene>
+	<dialog>step_1_1051005_2</dialog>
+	<mask></mask>
+	<unit>4</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1051006" next="1051007">
+	<scene>2</scene>
+	<dialog>step_1_1051006_2</dialog>
+	<mask>6,225,175,22</mask>
+	<unit>4</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1051007" next="1051008">
+	<scene>2</scene>
+	<dialog>step_1_1051007_2</dialog>
+	<mask>188,227,25,20</mask>
+	<unit>4</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1051008" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1051008_2</dialog>
+	<mask>6,268,105,22</mask>
+	<unit>4</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1035001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1035001_2</dialog>
+	<mask></mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="1035001" flag="0">renwu.swf</movieClip>
+	</guide>
+  <guide stepid="1042001" next="1042002">
+	<scene>2</scene>
+	<dialog>step_1_1042001_2</dialog>
+	<mask>577,561,30</mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>14</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1042002" next="1042003">
+	<scene>2</scene>
+	<dialog>step_1_1042002_2</dialog>
+	<mask>435,257,280,22</mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1042003" next="1042004">
+	<scene>2</scene>
+	<dialog>step_1_1042003_2</dialog>
+	<mask>536,457,105,28</mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>13</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1042004" next="1042005">
+	<scene>2</scene>
+	<dialog>step_1_1042004_2</dialog>
+	<mask>785,117,25,25</mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>5</condition>
+	<condition_value>14</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1042005" next="1042006">
+	<scene>2</scene>
+	<dialog>step_1_1042005_2</dialog>
+	<mask></mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1042006" next="1042007">
+	<scene>2</scene>
+	<dialog>step_1_1042006_2</dialog>
+	<mask></mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1042007" next="1042008">
+	<scene>2</scene>
+	<dialog>step_1_1042007_2</dialog>
+	<mask></mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1042008" next="1042009">
+	<scene>2</scene>
+	<dialog>step_1_1042008_2</dialog>
+	<mask>740,131,80</mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>16</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1042009" next="1042010">
+	<scene>2</scene>
+	<dialog>step_1_1042009_2</dialog>
+	<mask>462,376,67,33</mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>17</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1042010" next="1042011">
+	<scene>2</scene>
+	<dialog>step_1_1042010_2</dialog>
+	<mask>460,211,107,27</mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>12</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1042011" next="1042012">
+	<scene>2</scene>
+	<dialog>step_1_1042011_2</dialog>
+	<mask>222,192,180,23</mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1042012" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1042012_2</dialog>
+	<mask>785,117,25,25</mask>
+	<unit>5</unit>
+	<radar></radar>
+	<condition>5</condition>
+	<condition_value>17</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1036001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1036001_2</dialog>
+	<mask></mask>
+	<unit>6</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="1036001" flag="0">budui.swf</movieClip>
+	</guide>
+  <guide stepid="1043001" next="1043002">
+	<scene>2</scene>
+	<dialog>step_1_1043001_2</dialog>
+	<mask></mask>
+	<unit>6</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1043002" next="1043005">
+	<scene>2</scene>
+	<dialog>step_1_1043002_2</dialog>
+	<mask>627,561,30</mask>
+	<unit>6</unit>
+	<radar></radar>
+	<condition>4</condition>
+	<condition_value>8,0</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1043005" next="1043006">
+	<scene>2</scene>
+	<dialog>step_1_1043005_2</dialog>
+	<mask>193,180,177,319</mask>
+	<unit>6</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1043006" next="1043007">
+	<scene>2</scene>
+	<dialog>step_1_1043006_2</dialog>
+	<mask>644,181,162,217</mask>
+	<unit>6</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1043007" next="1043008">
+	<scene>2</scene>
+	<dialog>step_1_1043007_2</dialog>
+	<mask>672,465,107,28</mask>
+	<unit>6</unit>
+	<radar></radar>
+	<condition>7</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1043008" next="1043009">
+	<scene>2</scene>
+	<dialog>step_1_1043008_2</dialog>
+	<mask></mask>
+	<unit>6</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1043009" next="1043010">
+	<scene>2</scene>
+	<dialog>step_1_1043009_2</dialog>
+	<mask>393,463,107,28</mask>
+	<unit>6</unit>
+	<radar></radar>
+	<condition>8</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1043010" next="1043011">
+	<scene>2</scene>
+	<dialog>step_1_1043010_2</dialog>
+	<mask>785,117,25,25</mask>
+	<unit>6</unit>
+	<radar></radar>
+	<condition>5</condition>
+	<condition_value>8</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1043011" next="1043012">
+	<scene>2</scene>
+	<dialog>step_1_1043011_2</dialog>
+	<mask></mask>
+	<unit>6</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1043012" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1043012_2</dialog>
+	<mask></mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1040001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1040001_2</dialog>
+	<mask></mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="1040001" flag="0">zhuangbei.swf</movieClip>
+	</guide>
+  <guide stepid="1044001" next="1044002">
+	<scene>2</scene>
+	<dialog>step_1_1044001_2</dialog>
+	<mask>675,561,30</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>6</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1044002" next="1044003">
+	<scene>2</scene>
+	<dialog>step_1_1044002_2</dialog>
+	<mask>702,150,105,27</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>4</condition>
+	<condition_value>8,1</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1044003" next="-1">
+	<scene></scene>
+	<dialog>step_1_1044003_2</dialog>
+	<mask>628,191,57,57</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>10</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053001" next="1053002">
+	<scene>2,8,1</scene>
+	<dialog>step_1_1053001_2</dialog>
+	<mask>370,147,251,127</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053002" next="1053003">
+	<scene></scene>
+	<dialog>step_1_1053002_2</dialog>
+	<mask>785,117,25,25</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>5</condition>
+	<condition_value>8</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053003" next="1053004">
+	<scene></scene>
+	<dialog>step_1_1053003_2</dialog>
+	<mask></mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053004" next="1053005">
+	<scene></scene>
+	<dialog>step_1_1053004_2</dialog>
+	<mask></mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053005" next="1053006">
+	<scene></scene>
+	<dialog>step_1_1053005_2</dialog>
+	<mask></mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053006" next="1053007">
+	<scene></scene>
+	<dialog>step_1_1053006_2</dialog>
+	<mask>854,261,40</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>20</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053007" next="1053008">
+	<scene></scene>
+	<dialog>step_1_1053007_2</dialog>
+	<mask>345,334,106,26</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>9</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053008" next="1053009">
+	<scene></scene>
+	<dialog>step_1_1053008_2</dialog>
+	<mask></mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053009" next="1053010">
+	<scene></scene>
+	<dialog>step_1_1053009_2</dialog>
+	<mask>675,561,30</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>6</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053010" next="1053011">
+	<scene></scene>
+	<dialog>step_1_1053010_2</dialog>
+	<mask>480,117,92,27</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>4</condition>
+	<condition_value>6,3</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053011" next="1053012">
+	<scene></scene>
+	<dialog>step_1_1053011_2</dialog>
+	<mask>191,148,196,342</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053012" next="1053013">
+	<scene></scene>
+	<dialog>step_1_1053012_2</dialog>
+	<mask>388,149,422,126</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053013" next="1053014">
+	<scene></scene>
+	<dialog>step_1_1053013_2</dialog>
+	<mask>388,287,426,66</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1053014" next="-1">
+	<scene></scene>
+	<dialog>step_1_1053014_2</dialog>
+	<mask>684,370,106,25</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>11</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1050001" next="1050002">
+	<scene>2,6,3</scene>
+	<dialog>step_1_1050001_2</dialog>
+	<mask>785,117,25,25</mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>5</condition>
+	<condition_value>6</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1050002" next="1050003">
+	<scene>2</scene>
+	<dialog>step_1_1050002_2</dialog>
+	<mask></mask>
+	<unit>7</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1050003" next="1050004">
+	<scene></scene>
+	<dialog>step_1_1050003_2</dialog>
+	<mask></mask>
+	<unit>8</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1050004" next="1050005">
+	<scene></scene>
+	<dialog>step_1_1050004_2</dialog>
+	<mask></mask>
+	<unit>8</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1050005" next="-1">
+	<scene></scene>
+	<dialog>step_1_1050005_2</dialog>
+	<mask>472,562,30</mask>
+	<unit>8</unit>
+	<radar></radar>
+	<condition>2</condition>
+	<condition_value>2,2</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1003001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1003001_2</dialog>
+	<mask></mask>
+	<unit>9</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="1045001" flag="0">diqu.swf</movieClip>
+	</guide>
+  <guide stepid="1045001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1045001_2</dialog>
+	<mask></mask>
+	<unit>10</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1004001" next="1004002">
+	<scene>2</scene>
+	<dialog>step_1_1004001_2</dialog>
+	<mask></mask>
+	<unit>11</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1004002" next="1004003">
+	<scene></scene>
+	<dialog>step_1_1004002_2</dialog>
+	<mask></mask>
+	<unit>11</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1004003" next="-1">
+	<scene></scene>
+	<dialog>step_1_1004003_2</dialog>
+	<mask></mask>
+	<unit>11</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1005001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1005001_2</dialog>
+	<mask></mask>
+	<unit>12</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1046001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1046001_2</dialog>
+	<mask></mask>
+	<unit>13</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="1046002" flag="">nongtian.swf</movieClip>
+	</guide>
+  <guide stepid="1046002" next="1046003">
+	<scene>2</scene>
+	<dialog>step_1_1046002_2</dialog>
+	<mask></mask>
+	<unit>13</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag="0"></movieClip>
+	</guide>
+  <guide stepid="1046003" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1046003_2</dialog>
+	<mask></mask>
+	<unit>13</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag="0"></movieClip>
+	</guide>
+  <guide stepid="1007010" next="1007011">
+	<scene>2</scene>
+	<dialog>step_1_1007010_2</dialog>
+	<mask>773,561,30</mask>
+	<unit>14</unit>
+	<radar></radar>
+	<condition>2</condition>
+	<condition_value>1,5</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1007011" next="1007012">
+	<scene>5</scene>
+	<dialog>step_1_1007011_2</dialog>
+	<mask></mask>
+	<unit>14</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1007012" next="-1">
+	<scene>5</scene>
+	<dialog>step_1_1007012_2</dialog>
+	<mask></mask>
+	<unit>14</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1008001" next="1008002">
+	<scene>2</scene>
+	<dialog>step_1_1008001_2</dialog>
+	<mask></mask>
+	<unit>15</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1008002" next="1008003">
+	<scene></scene>
+	<dialog>step_1_1008002_2</dialog>
+	<mask></mask>
+	<unit>15</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1008003" next="1008004">
+	<scene></scene>
+	<dialog>step_1_1008003_2</dialog>
+	<mask>802,341,35</mask>
+	<unit>15</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>21</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1008004" next="-1">
+	<scene></scene>
+	<dialog>step_1_1008004_2</dialog>
+	<mask>602,378,65,30</mask>
+	<unit>15</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>8</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1009001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1009001_2</dialog>
+	<mask></mask>
+	<unit>16</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1011001" next="1011002">
+	<scene>2</scene>
+	<dialog>step_1_1011001_2</dialog>
+	<mask></mask>
+	<unit>17</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1011002" next="1011003">
+	<scene>2</scene>
+	<dialog>step_1_1011002_2</dialog>
+	<mask></mask>
+	<unit>17</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1011003" next="1011004">
+	<scene></scene>
+	<dialog>step_1_1011003_2</dialog>
+	<mask>682,403,35</mask>
+	<unit>17</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>26</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1011004" next="-1">
+	<scene></scene>
+	<dialog>step_1_1011004_2</dialog>
+	<mask>602,378,65,30</mask>
+	<unit>17</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>25</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="" next="">
+	<scene></scene>
+	<dialog>step_1__2</dialog>
+	<mask></mask>
+	<unit></unit>
+	<radar></radar>
+	<condition></condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1015001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1015001_2</dialog>
+	<mask></mask>
+	<unit>18</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1017001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1017001_2</dialog>
+	<mask></mask>
+	<unit>19</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1018001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1018001_2</dialog>
+	<mask></mask>
+	<unit>20</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1020001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1020001_2</dialog>
+	<mask></mask>
+	<unit>21</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1021001" next="1021002">
+	<scene>2</scene>
+	<dialog>step_1_1021001_2</dialog>
+	<mask></mask>
+	<unit>22</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1021002" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1021002_2</dialog>
+	<mask></mask>
+	<unit>22</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1022001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1022001_2</dialog>
+	<mask></mask>
+	<unit>23</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1023001" next="1023002">
+	<scene>2</scene>
+	<dialog>step_1_1023001_2</dialog>
+	<mask></mask>
+	<unit>24</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1023002" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1023002_2</dialog>
+	<mask></mask>
+	<unit>24</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1024001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1024001_2</dialog>
+	<mask></mask>
+	<unit>25</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025001" next="1025002">
+	<scene>1</scene>
+	<dialog>step_1_1025001_2</dialog>
+	<mask></mask>
+	<unit>26</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025002" next="1025003">
+	<scene>1</scene>
+	<dialog>step_1_1025002_2</dialog>
+	<mask></mask>
+	<unit>26</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025003" next="1025004">
+	<scene></scene>
+	<dialog>step_1_1025003_2</dialog>
+	<mask>353,245,64,49</mask>
+	<unit>26</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>9</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025004" next="-1">
+	<scene></scene>
+	<dialog>step_1_1025004_2</dialog>
+	<mask>538,382,62,22</mask>
+	<unit>26</unit>
+	<radar></radar>
+	<condition>21</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025020" next="1025021">
+	<scene></scene>
+	<dialog>step_1_1025020_2</dialog>
+	<mask></mask>
+	<unit>27</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025021" next="1025022">
+	<scene></scene>
+	<dialog>step_1_1025021_2</dialog>
+	<mask></mask>
+	<unit>27</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025022" next="1025023">
+	<scene></scene>
+	<dialog>step_1_1025022_2</dialog>
+	<mask>627,561,30</mask>
+	<unit>27</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>8</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025023" next="1025024">
+	<scene></scene>
+	<dialog>step_1_1025023_2</dialog>
+	<mask>391,121,84,26</mask>
+	<unit>27</unit>
+	<radar></radar>
+	<condition>4</condition>
+	<condition_value>8,2</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025024" next="1025025">
+	<scene></scene>
+	<dialog>step_1_1025024_2</dialog>
+	<mask>174,185,347,317</mask>
+	<unit>27</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025025" next="-1">
+	<scene></scene>
+	<dialog>step_1_1025025_2</dialog>
+	<mask>194,180,614,317</mask>
+	<unit>27</unit>
+	<radar></radar>
+	<condition>19</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025040" next="1025041">
+	<scene></scene>
+	<dialog>step_1_1025040_2</dialog>
+	<mask></mask>
+	<unit>28</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025041" next="1025042">
+	<scene>2,8,3</scene>
+	<dialog>step_1_1025041_2</dialog>
+	<mask>482,120,84,24</mask>
+	<unit>28</unit>
+	<radar></radar>
+	<condition>4</condition>
+	<condition_value>8,3</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025042" next="-1">
+	<scene></scene>
+	<dialog>step_1_1025042_2</dialog>
+	<mask>192,150,613,346</mask>
+	<unit>28</unit>
+	<radar></radar>
+	<condition>20</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1025060" next="-1">
+	<scene></scene>
+	<dialog>step_1_1025060_2</dialog>
+	<mask></mask>
+	<unit>29</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1027001" next="1027002">
+	<scene>1</scene>
+	<dialog>step_1_1027001_2</dialog>
+	<mask></mask>
+	<unit>30</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1027002" next="1027003">
+	<scene>1</scene>
+	<dialog>step_1_1027002_2</dialog>
+	<mask></mask>
+	<unit>30</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1027003" next="1027004">
+	<scene>1</scene>
+	<dialog>step_1_1027003_2</dialog>
+	<mask></mask>
+	<unit>30</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1027004" next="-1">
+	<scene>1</scene>
+	<dialog>step_1_1027004_2</dialog>
+	<mask>527,561,30</mask>
+	<unit>30</unit>
+	<radar></radar>
+	<condition>2</condition>
+	<condition_value>1,2</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1037001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1037001_2</dialog>
+	<mask></mask>
+	<unit>31</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="1047001" flag="">guojia.swf</movieClip>
+	</guide>
+  <guide stepid="1047001" next="1047002">
+	<scene>2</scene>
+	<dialog>step_1_1047001_2</dialog>
+	<mask>824,561,30</mask>
+	<unit>32</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>44</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1047002" next="1047003">
+	<scene></scene>
+	<dialog>step_1_1047002_2</dialog>
+	<mask></mask>
+	<unit>32</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1047003" next="1047004">
+	<scene></scene>
+	<dialog>step_1_1047003_2</dialog>
+	<mask></mask>
+	<unit>32</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1047004" next="-1">
+	<scene></scene>
+	<dialog>step_1_1047004_2</dialog>
+	<mask>193,153,610,343</mask>
+	<unit>32</unit>
+	<radar></radar>
+	<condition>18</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1047020" next="1047021">
+	<scene>2,44</scene>
+	<dialog>step_1_1047020_2</dialog>
+	<mask></mask>
+	<unit>33</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1047021" next="-1">
+	<scene></scene>
+	<dialog>step_1_1047021_2</dialog>
+	<mask>785,117,25,25</mask>
+	<unit>33</unit>
+	<radar></radar>
+	<condition>5</condition>
+	<condition_value>44</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1028001" next="1028002">
+	<scene></scene>
+	<dialog>step_1_1028001_2</dialog>
+	<mask></mask>
+	<unit>34</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1028002" next="1028003">
+	<scene></scene>
+	<dialog>step_1_1028002_2</dialog>
+	<mask></mask>
+	<unit>34</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1028003" next="1028004">
+	<scene></scene>
+	<dialog>step_1_1028003_2</dialog>
+	<mask></mask>
+	<unit>34</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1028004" next="1028005">
+	<scene></scene>
+	<dialog>step_1_1028004_2</dialog>
+	<mask>740,131,80</mask>
+	<unit>34</unit>
+	<radar></radar>
+	<condition>3</condition>
+	<condition_value>16</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1028005" next="1028006">
+	<scene></scene>
+	<dialog>step_1_1028005_2</dialog>
+	<mask>532,378,68,32</mask>
+	<unit>34</unit>
+	<radar></radar>
+	<condition>4</condition>
+	<condition_value>17,3</condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1028006" next="-1">
+	<scene></scene>
+	<dialog>step_1_1028006_2</dialog>
+	<mask></mask>
+	<unit>34</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1038001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1038001_2</dialog>
+	<mask></mask>
+	<unit>35</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="1048001" flag="0">shijie.swf</movieClip>
+	</guide>
+  <guide stepid="1048001" next="-1">
+	<scene></scene>
+	<dialog>step_1_1048001_2</dialog>
+	<mask></mask>
+	<unit>36</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1048002" next="1048003">
+	<scene></scene>
+	<dialog>step_1_1048002_2</dialog>
+	<mask></mask>
+	<unit>36</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1048003" next="1048004">
+	<scene></scene>
+	<dialog>step_1_1048003_2</dialog>
+	<mask></mask>
+	<unit>36</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1048004" next="1048005">
+	<scene></scene>
+	<dialog>step_1_1048004_2</dialog>
+	<mask></mask>
+	<unit>36</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1048005" next="-1">
+	<scene></scene>
+	<dialog>step_1_1048005_2</dialog>
+	<mask></mask>
+	<unit>36</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1039001" next="-1">
+	<scene>2</scene>
+	<dialog>step_1_1039001_2</dialog>
+	<mask></mask>
+	<unit>37</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="1049001" flag="0">juntuan.swf</movieClip>
+	</guide>
+  <guide stepid="1049001" next="1049002">
+	<scene></scene>
+	<dialog>step_1_1049001_2</dialog>
+	<mask></mask>
+	<unit>37</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1049002" next="-1">
+	<scene></scene>
+	<dialog>step_1_1049002_2</dialog>
+	<mask></mask>
+	<unit>37</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+  <guide stepid="1033001" next="-1">
+	<scene>1</scene>
+	<dialog>step_1_1033001_2</dialog>
+	<mask></mask>
+	<unit>38</unit>
+	<radar></radar>
+	<condition>1</condition>
+	<condition_value></condition_value>
+	<movieClip step="" flag=""></movieClip>
+	</guide>
+</guides>

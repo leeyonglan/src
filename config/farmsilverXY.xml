@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<farms>
+<farm x="1" y="1"/>
+<farm x="2" y="1"/>
+<farm x="3" y="1"/>
+<farm x="4" y="1"/>
+<farm x="5" y="1"/>
+<farm x="6" y="1"/>
+<farm x="7" y="1"/>
+<farm x="8" y="1"/>
+<farm x="9" y="1"/>
+<farm x="10" y="1"/>
+</farms>
+<silvers>
+<silver x="22" y="121"/>
+<silver x="33" y="1212"/>
+<silver x="44" y="22"/>
+<silver x="55" y="332"/>
+<silver x="66" y="3232"/>
+<silver x="77" y="12"/>
+<silver x="88" y="121"/>
+<silver x="99" y="12"/>
+<silver x="200" y="12"/>
+<silver x="300" y="12"/>
+</silvers>
+</resources>

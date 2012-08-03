@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<!-- 版本号 -->
+	<version>0.0.1.0</version>
+	
+	<!-- 跨域策略文件路径 不写表示根据flashplayer自动读取-->
+	<PolicyPath></PolicyPath>
+	
+	<!-- 垃圾回收时间间隔（秒），如果为0则表示不进行垃圾回收，垃圾回收包括清空对象池缓存对象 -->
+	<GCInterval>600</GCInterval>
+	
+	<!-- Tip所需数据，包括持续的秒数和Tip跟随鼠标时的偏移量  -->
+	<Tip lastSeconds="5" offsetX="15" offsetY="15"/>
+	
+	<!-- 显示人人LOGO 1 显示 0 不显示-->
+<!--	<Logo>1</Logo> -->
+	<!-- 战斗版本号，0不使用，1使用 -->
+	<BattleVersion>0</BattleVersion>
+	
+	<!-- 游戏中字体设置,都保存到TextFontType中 -->
+	<HEITI>黑体</HEITI>
+	<SONGTI>宋体</SONGTI>
+	<LISHU>隶书</LISHU>
+	<KAITI>楷体_GB2312</KAITI>
+	
+	<!-- 游戏中CoreTextField的初始化文字样式。可以使用CoreTextField.setStyle方法切换设置好的样式，默认是第一个样式 -->
+  <TextFormat font="宋体" size="12" color="0xffffff" glow="true" glowColor="0x000000" bold="false" italic="false" underline="false" type="default" comment="默认文字" />  
+  <TextFormat font="宋体" size="14" color="0xffffff" glow="true" glowColor="0x744010" bold="false" italic="false" underline="false" type="mainfacenormal" comment="主界面face正常状态文字" />
+  <TextFormat font="宋体" size="14" color="0xffff00" glow="true" glowColor="0x744010" bold="false" italic="false" underline="false" type="mainfaceover" comment="主界面face鼠标经过状态文字" />  
+  <TextFormat font="宋体" size="14" color="0xffffff" glow="false" glowColor="0x000000" bold="false" italic="false" underline="false" type="panel_sub_title" comment="面板副标题文字" /> 
+  <TextFormat font="宋体" size="12" color="0xffffff" glow="true" glowColor="0x000000" bold="false" italic="false" underline="false" type="button" comment="按钮文字" /> 
+  <TextFormat font="宋体" size="12" color="0xffcf90" glow="true" glowColor="0x000000" bold="true" italic="false" underline="false" type="tabButtonSelected" comment="标签按钮选中情况" /> 
+  <TextFormat font="宋体" size="12" color="0xd2c8c0" glow="true" glowColor="0x000000" bold="true" italic="false" underline="false" type="tabButtonNormal" comment="标签按钮正常情况" /> 
+  <TextFormat font="宋体" size="12" color="0xE4DFB8" glow="true" glowColor="0x000000" bold="false" italic="false" underline="false" type="flippage" comment="翻页签文字" /> 
+  <TextFormat font="宋体" size="12" color="0xddcbb3" glow="false" glowColor="0xf6ff0e" bold="false" italic="false" underline="false" type="panel_label" comment="武将属性" /> 
+  <TextFormat font="宋体" size="12" color="0xe02121" glow="true" glowColor="0x744010" bold="false" italic="false" underline="false" type="panel_attribute" comment="消除的时间" /> 
+  <TextFormat font="宋体" size="12" color="0x33ffff" glow="true" glowColor="0x744010" bold="false" italic="false" underline="false" type="list_title" comment="无法消除的时间" /> 
+  <TextFormat font="宋体" size="12" color="0xa4f500" glow="true" glowColor="0x744010" bold="false" italic="false" underline="false" type="panel_prompt_title" comment="面板提示文字标题" /> 
+  <TextFormat font="宋体" size="12" color="0xa4f500" glow="true" glowColor="0x744010" bold="false" italic="false" underline="false" type="equip_main_attribute" comment="面板中表格文字" /> 
+  <TextFormat font="宋体" size="14" color="0xffffff" glow="true" glowColor="0x744010" bold="false" italic="false" underline="false" type="panel_explain" comment="面板小标题" /> 
+  <TextFormat font="宋体" size="12" color="0xa1d4d7" glow="true" glowColor="0x000000" bold="false" italic="false" underline="false" type="panel_prompt" comment="面板提示文字" /> 
+  <TextFormat font="宋体" size="12" color="0x33ffff" glow="false" glowColor="0xe8ddb1" bold="true" italic="false" underline="false" type="right_activity" comment="技能文字" /> 
+  <TextFormat font="宋体" size="12" color="0xf6ff0e" glow="true" glowColor="0x744010" bold="false" italic="false" underline="false" type="general_name" comment="元宝的数值" /> 
+  <TextFormat font="宋体" size="12" color="0xe02121" glow="true" glowColor="0x744010" bold="false" italic="false" underline="false" type="equip_list_general_name" comment="装备列表，武将名称" /> 
+  <TextFormat font="宋体" size="12" color="0x37C752" glow="false" glowColor="0x000000" bold="false" italic="false" underline="false" type="encouragement" comment="奖励文字" /> 
+  <TextFormat font="宋体" size="12" color="0xFF3C00" glow="true" glowColor="0x000000" bold="false" italic="false" underline="false" type="system" comment="系统公告" /> 
+  <TextFormat font="宋体" size="12" color="0xFF0000" glow="false" glowColor="0x000000" bold="false" italic="false" underline="false" type="alert" comment="警告文字" /> 
+  <TextFormat font="宋体" size="12" color="0xFFD2AE" glow="false" glowColor="0x000000" bold="false" italic="false" underline="false" type="military_order" comment="军令文字" /> 
+  <TextFormat font="宋体" size="12" color="0xFFC84F" glow="true" glowColor="0x000000" bold="false" italic="false" underline="true" type="hyperlink" comment="超链接文字" /> 
+  <TextFormat font="宋体" size="13" color="0xBBBBBB" glow="false" glowColor="0x000000" bold="true" italic="false" underline="false" type="building_name" comment="建筑名称" /> 
+  <TextFormat font="宋体" size="12" color="0xBBBBBB" glow="false" glowColor="0x000000" bold="true" italic="false" underline="false" type="mail_unread" comment="邮件未读" /> 
+  <TextFormat font="宋体" size="12" color="0x666666" glow="false" glowColor="0x000000" bold="true" italic="false" underline="false" type="disabled" comment="禁用字体" /> 
+  <TextFormat font="宋体" size="12" color="0xffffff" glow="true" glowColor="0x000000" bold="false" italic="false" underline="false" type="roleInfoValueRice" comment="人物框属性米色" /> 
+  <TextFormat font="宋体" size="12" color="0xe4dfb8" glow="true" glowColor="0x000000" bold="false" italic="false" underline="false" type="roleInfoOrder" comment="人物框军令" /> 
+  <TextFormat font="宋体" size="12" color="0xffffff" glow="true" glowColor="0x000000" bold="false" italic="false" underline="false" type="roleInfoValueWhite" comment="人物框属性白" /> 
+  <TextFormat font="宋体" size="12" color="0xFFFFFF" glow="false" glowColor="0x000000" bold="false" italic="false" underline="false" type="white_12" comment="白色12号" /> 
+  <TextFormat font="宋体" size="12" color="0x000000" glow="false" glowColor="0x000000" bold="false" italic="false" underline="false" type="black_12" comment="黑色12号" /> 
+  <TextFormat font="微软雅黑" size="14" color="0x000000" glow="false" glowColor="0x000000" bold="true" italic="false" underline="false" type="power_talk" comment="关卡对象对话事件显示" /> 
+  <TextFormat font="宋体" size="14" color="0xfff09a" glow="true" glowColor="0x000000" leading="5" bold="false" italic="false" underline="false" type="guide" comment="新手引导" /> 
+  <TextFormat font="宋体" size="12" color="0xfff09a" glow="true" glowColor="0x000000" leading="15" bold="false" italic="false" underline="false" type="secretary" comment="小秘书 提示" /> 
+	
+	<!-- 游戏中必要的加载（进入游戏前读条加载）需要加载的东西 -->
+	<NecessaryLoad>Loading.swf</NecessaryLoad>
+	<NecessaryLoad>Login.swf</NecessaryLoad>
+	<NecessaryLoad>resources/loginUI.swf</NecessaryLoad>
+	
+	<!-- 游戏中第一次加载（进入游戏前读条加载）需要加载的东西 -->
+	<FirstLoad>{LangType}/lang/Lang.swf</FirstLoad>
+	<FirstLoad>config/Layout.bin</FirstLoad>
+	<FirstLoad>config/clientdata.dat</FirstLoad>
+	<FirstLoad>resources/first.swf</FirstLoad>
+	<FirstLoad>resources/{LangType}/first_language.swf</FirstLoad>
+	<FirstLoad>config/guide.xml</FirstLoad>
+	<FirstLoad>config/areaconfig.xml</FirstLoad>
+	<FirstLoad>config/farmsilverXY.xml</FirstLoad>
+
+	<FirstLoad>resources/city.swf</FirstLoad>
+	<FirstLoad>resources/{LangType}/city_language.swf</FirstLoad>
+	<FirstLoad>resources/power/powerCommon.swf</FirstLoad>
+	<FirstLoad>resources/power/powerEffect.swf</FirstLoad>
+	<FirstLoad>resources/power/bg/1.swf</FirstLoad>
+	<FirstLoad>resources/generalNecessary.swf</FirstLoad>
+	<FirstLoad>GameWorld.swf</FirstLoad>
+	<FirstLoad>config/power.csv</FirstLoad>
+	
+	<!-- 游戏中第二次加载（进入游戏后立即加载）需要加载的东西 -->
+	<!-- <SecondLoad>resources_CN/item.swf</SecondLoad> -->
+	<!-- <SecondLoad>resources_CN/animation.swf</SecondLoad>-->
+	<!-- <SecondLoad>resources_CN/general.swf</SecondLoad>-->
+	<!-- <SecondLoad>resources_CN/taobao.swf</SecondLoad>-->
+	<!-- <SecondLoad>resources_CN/union.swf</SecondLoad>-->
+	<!-- <SecondLoad>resources_CN/vip.swf</SecondLoad>-->
+	<!-- <SecondLoad>resources_CN/array.swf</SecondLoad>-->
+	<!-- <SecondLoad>resources_CN/tech.swf</SecondLoad>-->
+	<!-- <SecondLoad>resources_CN/country.swf</SecondLoad>-->
+	
+	<!-- 
+	<SecondLoad>{LangType}/world.swf</SecondLoad>
+	<SecondLoad>{LangType}/city.swf</SecondLoad>
+	<SecondLoad>{LangType}/area.swf</SecondLoad>
+	<SecondLoad>{LangType}/item.swf</SecondLoad>
+	<SecondLoad>{LangType}/general.swf</SecondLoad>
+	<SecondLoad>{LangType}/tech.swf</SecondLoad>
+	<SecondLoad>{LangType}/array.swf</SecondLoad>
+	<SecondLoad>{LangType}/union.swf</SecondLoad>
+	<SecondLoad>{LangType}/taobao.swf</SecondLoad>
+	<SecondLoad>{LangType}/power.swf</SecondLoad>
+	<SecondLoad>{LangType}/vip.swf</SecondLoad>
+	<SecondLoad>{LangType}/generalBig.swf</SecondLoad>
+	<SecondLoad>{LangType}/country.swf</SecondLoad>
+	<SecondLoad>{LangType}/animation.swf</SecondLoad>
+	-->
+</Config>

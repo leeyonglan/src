@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleConfig>
+	<Time>
+		<!-- 血量条减少动画的播放时间  秒-->
+		<bloodBarAnimationTime value="0.8"/>
+		<!-- 特效移动时间  秒-->
+		<effectMoveTime value="0.5"/>
+		<!-- 每一个动作之间的间隔时间  毫秒-->
+		<stepDelayTime value="100"/>
+		<!-- 文本出现的时长  秒-->
+		<textDisplayTime value="0.4"/>
+		<!-- 挨打的移动时长  秒-->
+		<hurtMoveTime value="0.5"/>
+		<!-- 技能名出现的时长  秒-->
+		<skillNameTime value="0.3"/>
+		<!-- 士兵攻击动作时长 毫秒-->
+		<troopsAttackTime value="100"/>
+		<!-- 士兵攻击动作开始后延迟 毫秒-->
+		<troopsAttackTimeStartDelay value="1000"/>
+		<!-- 士兵受伤动作时长 毫秒-->
+		<troopsHurtTime value="150"/>
+		<!-- 单体攻击技能的播放频率 毫秒-->
+		<singleTargetSkillEffectTimeDelay value="80"/>
+		<!-- 群体攻击技能的播放频率 毫秒-->
+		<targetsSkillEffectTimeDelay value="80"/>
+		<!-- buff技能的播放频率 毫秒-->
+		<buffSkillEffectTimeDelay value="100"/>
+		
+		<!-- 回合间隔 毫秒-->
+		<roundDelay value="400"/>
+		<!-- 快速播放的倍数 -->
+		<speedUpMultiple value="2"/>
+	</Time>
+</BattleConfig>
