@@ -24,8 +24,6 @@ package
 	 * 版本：1.0.0
 	 * <p>
 	 * <p>
-	 * 
-	 * <p>
 	 *  
 	 */
 	[SWF(width="1024", height="768", frameRate="24", backgroundColor="#000000")]
